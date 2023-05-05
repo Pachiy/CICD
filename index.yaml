@@ -1,7 +1,7 @@
 apiVersion: v1
 entries:
   javawebapp:
-  - apiVersion: v2
+  - apiVersion: 
     appVersion:
     created: "2020-12-02T01:06:54.465065358Z"
     description: A Helm chart of Mithun tech no for Kubernetes
